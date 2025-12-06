@@ -1,3 +1,3 @@
 # Algorithm_Study
 
-* ProblemSolvingProject
+* Problem Solving Project
